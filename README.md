@@ -10,4 +10,5 @@
 ![](https://github.com/ourceteams/open-daily/blob/main/we_logo.jpg) 
 
 [1、2021_10_12_这款开源神器将人声伴奏完美分离，厉害了！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_12_%E8%BF%99%E6%AC%BE%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%E5%B0%86%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%E5%AE%8C%E7%BE%8E%E5%88%86%E7%A6%BB%EF%BC%8C%E5%8E%89%E5%AE%B3%E4%BA%86%EF%BC%81.md)
+
 [2、2021_10_13_ 996.icu只是听说过？这个项目让你亲眼见证，非常壮观！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_13_%20996.icu%E5%8F%AA%E6%98%AF%E5%90%AC%E8%AF%B4%E8%BF%87%EF%BC%9F%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E8%AE%A9%E4%BD%A0%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81%EF%BC%8C%E9%9D%9E%E5%B8%B8%E5%A3%AE%E8%A7%82%EF%BC%81.md)
