@@ -16,3 +16,5 @@
 [3、5.6k+star的Flutter神器！超棒的原生混合框架！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_19_5.6k+star%E7%9A%84Flutter%E7%A5%9E%E5%99%A8%EF%BC%81%E8%B6%85%E6%A3%92%E7%9A%84%E5%8E%9F%E7%94%9F%E6%B7%B7%E5%90%88%E6%A1%86%E6%9E%B6%EF%BC%81.md)
 
 [4、别再用BeanUtils转换对象啦！这个框架更快更强大！！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_21_%E5%88%AB%E5%86%8D%E7%94%A8BeanUtils%E8%BD%AC%E6%8D%A2%E5%AF%B9%E8%B1%A1%E5%95%A6%EF%BC%81%E8%BF%99%E4%B8%AA%E6%A1%86%E6%9E%B6%E6%9B%B4%E5%BF%AB%E6%9B%B4%E5%BC%BA%E5%A4%A7%EF%BC%81%EF%BC%81.md)
+
+[5、大厂热数据探测开源项目不能错过！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_26_%E5%A4%A7%E5%8E%82%E7%83%AD%E6%95%B0%E6%8D%AE%E6%8E%A2%E6%B5%8B%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%B8%8D%E8%83%BD%E9%94%99%E8%BF%87!.md)
