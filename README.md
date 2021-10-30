@@ -18,3 +18,4 @@
 [4、别再用BeanUtils转换对象啦！这个框架更快更强大！！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_21_%E5%88%AB%E5%86%8D%E7%94%A8BeanUtils%E8%BD%AC%E6%8D%A2%E5%AF%B9%E8%B1%A1%E5%95%A6%EF%BC%81%E8%BF%99%E4%B8%AA%E6%A1%86%E6%9E%B6%E6%9B%B4%E5%BF%AB%E6%9B%B4%E5%BC%BA%E5%A4%A7%EF%BC%81%EF%BC%81.md)
 
 [5、大厂热数据探测开源项目不能错过！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_26_%E5%A4%A7%E5%8E%82%E7%83%AD%E6%95%B0%E6%8D%AE%E6%8E%A2%E6%B5%8B%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%B8%8D%E8%83%BD%E9%94%99%E8%BF%87!.md)
+[6、免费的OCR识别工具就是香！](https://github.com/ourceteams/open-daily/blob/main/contents/2021-10-28-%E5%85%8D%E8%B4%B9%E7%9A%84OCR%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7%E5%B0%B1%E6%98%AF%E9%A6%99.md)
