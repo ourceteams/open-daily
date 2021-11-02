@@ -20,3 +20,5 @@
 [5、大厂热数据探测开源项目不能错过！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_26_%E5%A4%A7%E5%8E%82%E7%83%AD%E6%95%B0%E6%8D%AE%E6%8E%A2%E6%B5%8B%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%B8%8D%E8%83%BD%E9%94%99%E8%BF%87!.md)
 
 [6、免费的OCR识别工具就是香！](https://github.com/ourceteams/open-daily/blob/main/contents/2021-10-28-%E5%85%8D%E8%B4%B9%E7%9A%84OCR%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7%E5%B0%B1%E6%98%AF%E9%A6%99.md)
+
+[7、任务调度平台只会Quartz？让本小妹来带你飞~](https://github.com/ourceteams/open-daily/blob/main/contents/2021_11_02_%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%B9%B3%E5%8F%B0%E5%8F%AA%E4%BC%9AQuartz%EF%BC%9F%E8%AE%A9%E6%9C%AC%E5%B0%8F%E5%A6%B9%E6%9D%A5%E5%B8%A6%E4%BD%A0%E9%A3%9E%7E.md)
