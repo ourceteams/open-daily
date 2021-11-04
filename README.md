@@ -22,3 +22,5 @@
 [6、免费的OCR识别工具就是香！](https://github.com/ourceteams/open-daily/blob/main/contents/2021-10-28-%E5%85%8D%E8%B4%B9%E7%9A%84OCR%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7%E5%B0%B1%E6%98%AF%E9%A6%99.md)
 
 [7、任务调度平台只会Quartz？让本小妹来带你飞~](https://github.com/ourceteams/open-daily/blob/main/contents/2021_11_02_%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%B9%B3%E5%8F%B0%E5%8F%AA%E4%BC%9AQuartz%EF%BC%9F%E8%AE%A9%E6%9C%AC%E5%B0%8F%E5%A6%B9%E6%9D%A5%E5%B8%A6%E4%BD%A0%E9%A3%9E%7E.md)
+
+[8、基于 Netty 的即时消息通信框架，给你带来全新的沉浸式体验](https://github.com/ourceteams/open-daily/blob/main/contents/2021_11_04_%E5%9F%BA%E4%BA%8E%20Netty%20%E7%9A%84%E5%8D%B3%E6%97%B6%E6%B6%88%E6%81%AF%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6%EF%BC%8C%E7%BB%99%E4%BD%A0%E5%B8%A6%E6%9D%A5%E5%85%A8%E6%96%B0%E7%9A%84%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C.md)
