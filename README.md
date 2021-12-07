@@ -28,3 +28,5 @@
 [9、访问GitHub还在转圈圈吗？快上车！让你加速到飞起！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_11_09_访问GitHub还在转圈圈吗？快上车！让你加速到飞起！.md)
 
 [10、谁说只有Python才能写爬虫了？Javaer转身甩出这个框架：给爷爬！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_11_11_谁说只有Python才能写爬虫了？Javaer转身甩出这个框架：给爷爬！.md)
+
+[11、全自动生成！让你和接口文档说拜拜！！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_12_07_全自动生成！让你和接口文档说拜拜！！.md)
