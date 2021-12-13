@@ -5,9 +5,9 @@
 
 # 内容
 
-获得更好的阅读体验 [开源小分队](https://github.com/ourceteams/open-daily/blob/main/we_logo.jpg) 公众号。
+获得更好的阅读体验 [开源小分队](![](https://gitee.com/sourceteam/blog-source/raw/master/images/202112/202112131653796.jpg) 公众号。
 
-![](https://github.com/ourceteams/open-daily/blob/main/we_logo.jpg) 
+![](https://gitee.com/sourceteam/blog-source/raw/master/images/202112/202112131653796.jpg)
 
 [1、这款开源神器将人声伴奏完美分离，厉害了！](https://github.com/ourceteams/open-daily/blob/main/contents/2021_10_12_%E8%BF%99%E6%AC%BE%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%E5%B0%86%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%E5%AE%8C%E7%BE%8E%E5%88%86%E7%A6%BB%EF%BC%8C%E5%8E%89%E5%AE%B3%E4%BA%86%EF%BC%81.md)
 
