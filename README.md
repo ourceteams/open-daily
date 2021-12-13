@@ -5,7 +5,7 @@
 
 # 内容
 
-获得更好的阅读体验 [开源小分队](![](https://gitee.com/sourceteam/blog-source/raw/master/images/202112/202112131653796.jpg) 公众号。
+关注公众号 [开源小分队](![](https://gitee.com/sourceteam/blog-source/raw/master/images/202112/202112131653796.jpg)) 获得更好阅读体验！
 
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/202112/202112131653796.jpg)
 
