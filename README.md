@@ -44,3 +44,8 @@
 [17、见证历史了。。。](https://github.com/ourceteams/open-daily/blob/main/contents/2021_12_11_见证历史了.md)
 
 [18、再也不用担心被和谐了！](https://mp.weixin.qq.com/s/3PDXB_irO2-tlaKDoAo6mg)
+
+[19、又一款「所见即所得」的优秀 Markdown 编辑器](https://mp.weixin.qq.com/s/cns8yw5HGA2MnS_2D9ET0A)
+
+[20、最好用的下载视频工具，不接受反驳](https://mp.weixin.qq.com/s/1ReHFOt_KEiFOMlcxdEt2A)
+
