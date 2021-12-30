@@ -49,3 +49,4 @@
 
 [20、最好用的下载视频工具，不接受反驳](https://mp.weixin.qq.com/s/1ReHFOt_KEiFOMlcxdEt2A)
 
+[21、11月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/qHcLFB93suOFV391lXfR-g)
