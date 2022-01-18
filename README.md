@@ -50,3 +50,5 @@
 [20、最好用的下载视频工具，不接受反驳](https://mp.weixin.qq.com/s/1ReHFOt_KEiFOMlcxdEt2A)
 
 [21、11月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/qHcLFB93suOFV391lXfR-g)
+
+[22、GitHub 上最大的算法开源库，确定不了解？](https://mp.weixin.qq.com/s/COATHVf42AZzNJpumF34Ow)
