@@ -52,3 +52,7 @@
 [21、11月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/qHcLFB93suOFV391lXfR-g)
 
 [22、GitHub 上最大的算法开源库，确定不了解？](https://mp.weixin.qq.com/s/COATHVf42AZzNJpumF34Ow)
+
+[23、不到300K的GIF图片处理神器，牛逼！](https://mp.weixin.qq.com/s/YPzCQl1a9UoiCTajEYtgiQ)
+
+[24、解锁网易云音乐，这个项目牛了~~](https://mp.weixin.qq.com/s/XP26Svw2-PP-z3Pb04c3kg)
