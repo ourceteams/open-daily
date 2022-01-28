@@ -58,3 +58,5 @@
 [24、解锁网易云音乐，这个项目牛了~~](https://mp.weixin.qq.com/s/XP26Svw2-PP-z3Pb04c3kg)
 
 [25、过年神器，避免偶遇，只能尴尬一笑~~](https://github.com/ourceteams/open-daily/blob/main/contents/2022-01-27-过年神器，避免偶遇，只能尴尬一笑~~.md)
+
+[26、实时应用监控平台，你值得拥有！](https://mp.weixin.qq.com/s/ufJL-kz7ufeCphXEXioJ8w)
