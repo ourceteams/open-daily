@@ -60,3 +60,7 @@
 [25、过年神器，避免偶遇，只能尴尬一笑~~](https://github.com/ourceteams/open-daily/blob/main/contents/2022-01-27-过年神器，避免偶遇，只能尴尬一笑~~.md)
 
 [26、实时应用监控平台，你值得拥有！](https://mp.weixin.qq.com/s/ufJL-kz7ufeCphXEXioJ8w)
+
+[27、12月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/74aTxLMrtwkFbxhw0s3tXQ)
+
+[28、2022年1月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/ktsKeeUjFQqpakx_mVLVfQ)
