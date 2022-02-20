@@ -64,3 +64,5 @@
 [27、12月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/74aTxLMrtwkFbxhw0s3tXQ)
 
 [28、2022年1月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/ktsKeeUjFQqpakx_mVLVfQ)
+
+[29、雷军写的代码像诗一样优雅，我有最全中文诗歌古典文集数据库](https://mp.weixin.qq.com/s/FXmqIWRNd2ttSkCEeiBkSw)
