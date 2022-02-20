@@ -61,8 +61,16 @@
 
 [26、实时应用监控平台，你值得拥有！](https://mp.weixin.qq.com/s/ufJL-kz7ufeCphXEXioJ8w)
 
-[27、12月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/74aTxLMrtwkFbxhw0s3tXQ)
+[27、超酷！一键绘制你爱的城市的地图](https://mp.weixin.qq.com/s/ukbYhJnG4GyO0o5AzRoWQA)
 
-[28、2022年1月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/ktsKeeUjFQqpakx_mVLVfQ)
+[28、别羡慕 Win10 的摸鱼应用，Mac 也有摸鱼神器！](https://mp.weixin.qq.com/s/k2SrUifeTkenJoVp3xvJpA)
 
-[29、雷军写的代码像诗一样优雅，我有最全中文诗歌古典文集数据库](https://mp.weixin.qq.com/s/FXmqIWRNd2ttSkCEeiBkSw)
+[29、12月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/74aTxLMrtwkFbxhw0s3tXQ)
+
+[30、2022年1月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/ktsKeeUjFQqpakx_mVLVfQ)
+
+[31、这款开源博客从部署到访问只要300秒？我不信！](https://mp.weixin.qq.com/s/7JzJszyiTSK7vEq3YqNpxQ)
+
+[32、这款开源博客从部署到访问只要300秒？我不信！](https://mp.weixin.qq.com/s/ZxZ8TN6WYIWAMaUTqSVbpQ)
+
+[33、雷军写的代码像诗一样优雅，我有最全中文诗歌古典文集数据库](https://mp.weixin.qq.com/s/FXmqIWRNd2ttSkCEeiBkSw)
