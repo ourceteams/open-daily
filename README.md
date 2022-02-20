@@ -71,6 +71,6 @@
 
 [31、这款开源博客从部署到访问只要300秒？我不信！](https://mp.weixin.qq.com/s/7JzJszyiTSK7vEq3YqNpxQ)
 
-[32、这款开源博客从部署到访问只要300秒？我不信！](https://mp.weixin.qq.com/s/ZxZ8TN6WYIWAMaUTqSVbpQ)
+[32、关于命令行的一切，都在这篇101k Star的文档里了](https://mp.weixin.qq.com/s/ZxZ8TN6WYIWAMaUTqSVbpQ)
 
 [33、雷军写的代码像诗一样优雅，我有最全中文诗歌古典文集数据库](https://mp.weixin.qq.com/s/FXmqIWRNd2ttSkCEeiBkSw)
