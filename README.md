@@ -74,3 +74,5 @@
 [32、关于命令行的一切，都在这篇101k Star的文档里了](https://mp.weixin.qq.com/s/ZxZ8TN6WYIWAMaUTqSVbpQ)
 
 [33、雷军写的代码像诗一样优雅，我有最全中文诗歌古典文集数据库](https://mp.weixin.qq.com/s/FXmqIWRNd2ttSkCEeiBkSw)
+
+[34、保护电脑私密资源，隐藏你的小秘密](https://mp.weixin.qq.com/s/q_DRADJfK7EUbt96UL22CQ)
