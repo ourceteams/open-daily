@@ -76,3 +76,9 @@
 [33、雷军写的代码像诗一样优雅，我有最全中文诗歌古典文集数据库](https://mp.weixin.qq.com/s/FXmqIWRNd2ttSkCEeiBkSw)
 
 [34、保护电脑私密资源，隐藏你的小秘密](https://mp.weixin.qq.com/s/q_DRADJfK7EUbt96UL22CQ)
+
+[35、别再问我用什么画图了，精美的开源手绘风白板应用介绍给你！](https://mp.weixin.qq.com/s/29GwKmdbOWkQbcL56OtLVw)
+
+[36、这款 8W Fork 的即时通讯（IM）项目，让你轻松打造自己的聊天App!](https://mp.weixin.qq.com/s/i8eWDbVhAW1Z0thG3hSscQ)
+
+[37、拒绝充钱提速，快来搭建自己的网络云盘吧！！](https://mp.weixin.qq.com/s/aigC3Q-okPWE30yWbVAyxg)
