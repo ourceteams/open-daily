@@ -82,3 +82,5 @@
 [36、这款 8W Fork 的即时通讯（IM）项目，让你轻松打造自己的聊天App!](https://mp.weixin.qq.com/s/i8eWDbVhAW1Z0thG3hSscQ)
 
 [37、拒绝充钱提速，快来搭建自己的网络云盘吧！！](https://mp.weixin.qq.com/s/aigC3Q-okPWE30yWbVAyxg)
+
+[38、变量命名也有专门的网站。。。孤陋寡闻了拒绝充钱提速，快来搭建自己的网络云盘吧！！](https://mp.weixin.qq.com/s/p29O-qvCYzNBLpprB3qyDg)
