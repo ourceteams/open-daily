@@ -84,3 +84,7 @@
 [37、拒绝充钱提速，快来搭建自己的网络云盘吧！！](https://mp.weixin.qq.com/s/aigC3Q-okPWE30yWbVAyxg)
 
 [38、变量命名也有专门的网站。。。孤陋寡闻了拒绝充钱提速，快来搭建自己的网络云盘吧！！](https://mp.weixin.qq.com/s/p29O-qvCYzNBLpprB3qyDg)
+
+[39、直接在浏览器里聊天，这个开源项目太有意思了！](https://mp.weixin.qq.com/s/36_ftrPeYMW1GEVabCyGmw)
+
+[40、82张思维导图，这个牛逼项目，必须收藏！](https://mp.weixin.qq.com/s/ymQMvYovxebjDPqRKyRBnQ)
