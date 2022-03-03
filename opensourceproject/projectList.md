@@ -1,3 +1,4 @@
+
 # 开源项目地址列表
 
 「开源小分队」 公众号文章推荐项目地址
@@ -12,3 +13,6 @@
 [变量命名也有专门的网站。。。孤陋寡闻了](https://github.com/unbug/codelf)
 
 [你不会不想有一个自己的 B 站吧？](https://github.com/lybenson/bilibili-vue)
+
+
+# [往期开源项目推荐汇总](hhttps://github.com/ourceteams/open-daily)
