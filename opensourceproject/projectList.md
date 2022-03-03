@@ -15,4 +15,4 @@
 [你不会不想有一个自己的 B 站吧？](https://github.com/lybenson/bilibili-vue)
 
 
-# [往期开源项目推荐汇总](hhttps://github.com/ourceteams/open-daily)
+# [往期开源项目推荐汇总](https://github.com/ourceteams/open-daily)
