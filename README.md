@@ -88,3 +88,11 @@
 [39、直接在浏览器里聊天，这个开源项目太有意思了！](https://mp.weixin.qq.com/s/36_ftrPeYMW1GEVabCyGmw)
 
 [40、82张思维导图，这个牛逼项目，必须收藏！](https://mp.weixin.qq.com/s/ymQMvYovxebjDPqRKyRBnQ)
+
+[41、各位卷王你确定不进来看看？](https://mp.weixin.qq.com/s/rp-D0pXJpr1-Ig08yqeFhQ)
+
+[42、头像七十二变变变！](https://mp.weixin.qq.com/s/i7RRSQSCI8L_0exd9q53tg)
+
+[43、我在学外语，你们都出去！](https://mp.weixin.qq.com/s/wT9Xcb1wra7clVe7NW6gug)
+
+[44、你不会不想有一个自己的 B 站吧？](https://mp.weixin.qq.com/s/3ph3XwC9YAAttKjjiVrtSQ)
