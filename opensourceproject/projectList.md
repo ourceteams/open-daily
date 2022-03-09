@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+[听说在这里可以重开人生？](https://github.com/VickScarlet/lifeRestart)
+
 [谁是最好用的Redis客户端？](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 [变量命名也有专门的网站。。。孤陋寡闻了](https://github.com/unbug/codelf)
