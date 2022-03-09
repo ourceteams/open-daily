@@ -95,4 +95,20 @@
 
 [43、我在学外语，你们都出去！](https://mp.weixin.qq.com/s/wT9Xcb1wra7clVe7NW6gug)
 
-[44、你不会不想有一个自己的 B 站吧？](https://mp.weixin.qq.com/s/3ph3XwC9YAAttKjjiVrtSQ)
+[44、封神之作，良心的开源游戏开发平台](https://mp.weixin.qq.com/s/F-wzMSWf5_mmKv1mfB-QmA)
+
+[45、再见Xshell！这个开源的终端工具更酷炫！](https://mp.weixin.qq.com/s/UtN8XXyNydR7f5nR2TVn_w)
+
+[46、变量命名也有专门的网站。。。孤陋寡闻了](https://mp.weixin.qq.com/s/p29O-qvCYzNBLpprB3qyDg)
+
+[47、这个插件让你不再苦恼如何写 Git Commit Message](https://mp.weixin.qq.com/s/ZlNsHIcRnlq8rO0F8vIy2A)
+
+[48、连接WiFi还要输密码？来扫一扫我的小卡片儿吧](https://mp.weixin.qq.com/s/IqkPdTqzwmaYH3LJHfDNYg)
+
+[49、你不会不想有一个自己的 B 站吧？](https://mp.weixin.qq.com/s/3ph3XwC9YAAttKjjiVrtSQ)
+
+[50、2022年2月开源项目精华都在这里啦~](https://mp.weixin.qq.com/s/Jid2cZO0ixNtObwmU5yQfg)
+
+[51、谁是最好用的Redis客户端？](https://mp.weixin.qq.com/s/kljly0Dz0xl81QHhDqdjFA)
+
+[52、听说在这里可以重开人生？](https://mp.weixin.qq.com/s/nXWs76T_tGyIaPJimOb-6w)
