@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+[面试官：还在使用word写简历？](https://github.com/geekcompany/ResumeSample)
+
 [听说在这里可以重开人生？](https://github.com/VickScarlet/lifeRestart)
 
 [谁是最好用的Redis客户端？](https://github.com/qishibo/AnotherRedisDesktopManager)
