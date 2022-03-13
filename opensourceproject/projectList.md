@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+[Windows复制粘贴太拉垮？这款剪贴板利器太香了！](https://github.com/hluk/CopyQ)
+
 [面试官：还在使用word写简历？](https://github.com/geekcompany/ResumeSample)
 
 [听说在这里可以重开人生？](https://github.com/VickScarlet/lifeRestart)
