@@ -19,6 +19,8 @@
 
 [你不会不想有一个自己的 B 站吧？](https://github.com/lybenson/bilibili-vue)
 
+[还在苦恼Jenkins的配置？这款 1W 星的持续交付产品推荐给你！](https://github.com/koderover/zadig)
+
 
 # 往期项目推荐
 
