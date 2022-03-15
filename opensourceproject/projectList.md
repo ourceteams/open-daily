@@ -9,7 +9,7 @@
 
 ## 按文章标题进行查找
 
-[自从有了这项目，斗图我就没输过！]([Github地址](https://github.com/zhaoolee/ChineseBQB) [官网](https://www.v2fy.com/p/000readme-chinesebqb/) 表情包搜索](https://www.v2fy.com/asset/0i/ChineseBQB/)]
+[自从有了这项目，斗图我就没输过！]([Github地址](https://github.com/zhaoolee/ChineseBQB) [官网](https://www.v2fy.com/p/000readme-chinesebqb/) [表情包搜索](https://www.v2fy.com/asset/0i/ChineseBQB/)]
 
 [Windows复制粘贴太拉垮？这款剪贴板利器太香了！](https://github.com/hluk/CopyQ)
 
