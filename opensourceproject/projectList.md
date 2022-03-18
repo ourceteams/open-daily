@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+[使用这个项目，108w奖金有戏了！](https://github.com/wb14123/seq2seq-couplet)([官方demo](https://ai.binwang.me/couplet/))
+
 [自从有了这项目，斗图我就没输过！](https://github.com/zhaoolee/ChineseBQB)([官网](https://www.v2fy.com/p/000readme-chinesebqb/) [表情包搜索](https://www.v2fy.com/asset/0i/ChineseBQB/))
 
 [Windows复制粘贴太拉垮？这款剪贴板利器太香了！](https://github.com/hluk/CopyQ)
