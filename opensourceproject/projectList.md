@@ -8,6 +8,7 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+[多样化生成二维码！](https://github.com/x-hw/amazing-qr)
 
 [使用这个项目，108w奖金有戏了！](https://github.com/wb14123/seq2seq-couplet)([官方demo](https://ai.binwang.me/couplet/))
 
