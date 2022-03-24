@@ -8,6 +8,10 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+[安全在线简历生成器，不试试吗？](https://github.com/visiky/resume)
+
+[自建视频会议系统，好使？](https://github.com/fmeringdal/nettu-meet)
+
 [前端超好用的WebSocket工具！](https://github.com/joewalnes/reconnecting-websocket)
 
 [对不起，我又怀旧了。。。](https://github.com/jynew/jynew)
