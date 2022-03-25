@@ -10,6 +10,8 @@
 ## 按文章标题进行查找
 [在浏览器中操作 Excel，这款完全开源的在线表格推荐给你！](https://github.com/mengshukeji/Luckysheet)
 
+[不闹，这个真的很重要！](https://github.com/s-unscrupulous/idea_seat)
+
 [安全在线简历生成器，不试试吗？](https://github.com/visiky/resume)
 
 [自建视频会议系统，好使？](https://github.com/fmeringdal/nettu-meet)
