@@ -8,6 +8,8 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+[纳尼？这么麻烦的逻辑一个注解就搞定了？](https://github.com/spring-projects/spring-retry)
+
 [在浏览器中操作 Excel，这款完全开源的在线表格推荐给你！](https://github.com/mengshukeji/Luckysheet)
 
 [不闹，这个真的很重要！](https://github.com/s-unscrupulous/idea_seat)
