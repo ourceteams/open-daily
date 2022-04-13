@@ -8,6 +8,8 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+[看小说能写操作系统内核？](https://github.com/sunym1993/flash-linux0.11-talk)
+
 [一个插件，搞定多平台发布](https://github.com/wechatsync/Wechatsync)
 
 [纳尼？这么麻烦的逻辑一个注解就搞定了？](https://github.com/spring-projects/spring-retry)
