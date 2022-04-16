@@ -50,6 +50,8 @@
 
 [还在苦恼Jenkins的配置？这款 1W 星的持续交付产品推荐给你！](https://github.com/koderover/zadig)
 
+[一站式持续测试平台，打造你的DevOps流程](https://github.com/metersphere/metersphere)
+
 
 # 往期项目推荐
 
