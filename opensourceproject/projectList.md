@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+[一键快速优雅保存网页，优秀！](https://github.com/gildas-lormeau/SingleFile)
+
 [P站上不了？没事，自己动手搞一个](https://github.com/bestony/logoly)([在线网站](https://www.logoly.pro/#/))
 
 [轻松抓住内容关键字！](https://github.com/amueller/word_cloud)
