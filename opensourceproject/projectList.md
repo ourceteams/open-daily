@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+[给你朋友做了个视频播放器](https://github.com/sampotts/plyr)
+
 [AI帮我写代码，程序员真的要失业了？](https://github.com/github/copilot-docs)
 
 [动动手指就能搭建系统的低代码引擎](https://github.com/alibaba/lowcode-engine)
