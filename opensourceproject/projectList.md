@@ -9,6 +9,8 @@
 
 ## 按文章标题进行查找
 
+有了它，你也可以成为中华小当家！([隔离食用手册](https://github.com/YunYouJun/cook)、[程序员做饭指南](https://github.com/Anduin2017/HowToCook))
+
 [给女朋友做了个视频播放器](https://github.com/sampotts/plyr)
 
 [AI帮我写代码，程序员真的要失业了？](https://github.com/github/copilot-docs)
