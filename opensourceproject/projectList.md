@@ -1,4 +1,3 @@
-
 # 开源项目地址列表
 
 「开源小分队」 公众号文章推荐项目地址
@@ -8,6 +7,9 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+
+[不会 PS 也没关系！一键生成精美的 GitHub 推广图！！](https://github.com/wei/socialify)
+
 [推荐一款低代码开源项目，YYDS！！](https://github.com/wangyuan389/mall-cook)
 
 [再…再摸，我就不客气了！](https://github.com/OBKoro1/stop-mess-around)
@@ -18,15 +20,15 @@
 
 [给女朋友做了个视频播放器](https://github.com/sampotts/plyr)
 
-[AI帮我写代码，程序员真的要失业了？](https://github.com/github/copilot-docs)
+[AI 帮我写代码，程序员真的要失业了？](https://github.com/github/copilot-docs)
 
 [动动手指就能搭建系统的低代码引擎](https://github.com/alibaba/lowcode-engine)
 
-[一站式持续测试平台，打造你的DevOps流程](https://github.com/metersphere/metersphere)
+[一站式持续测试平台，打造你的 DevOps 流程](https://github.com/metersphere/metersphere)
 
 [一键快速优雅保存网页，优秀！](https://github.com/gildas-lormeau/SingleFile)
 
-[P站上不了？没事，自己动手搞一个](https://github.com/bestony/logoly)([在线网站](https://www.logoly.pro/#/))
+[P 站上不了？没事，自己动手搞一个](https://github.com/bestony/logoly)([在线网站](https://www.logoly.pro/#/))
 
 [轻松抓住内容关键字！](https://github.com/amueller/word_cloud)
 
@@ -44,31 +46,31 @@
 
 [自建视频会议系统，好使？](https://github.com/fmeringdal/nettu-meet)
 
-[前端超好用的WebSocket工具！](https://github.com/joewalnes/reconnecting-websocket)
+[前端超好用的 WebSocket 工具！](https://github.com/joewalnes/reconnecting-websocket)
 
 [对不起，我又怀旧了。。。](https://github.com/jynew/jynew)
 
-[还在苦恼Jenkins的配置？这款 1W 星的持续交付产品推荐给你！](https://github.com/koderover/zadig)
+[还在苦恼 Jenkins 的配置？这款 1W 星的持续交付产品推荐给你！](https://github.com/koderover/zadig)
 
 [多样化生成二维码！](https://github.com/x-hw/amazing-qr)
 
-[使用这个项目，108w奖金有戏了！](https://github.com/wb14123/seq2seq-couplet)([官方demo](https://ai.binwang.me/couplet/))
+[使用这个项目，108w 奖金有戏了！](https://github.com/wb14123/seq2seq-couplet)([官方 demo](https://ai.binwang.me/couplet/))
 
 [自从有了这项目，斗图我就没输过！](https://github.com/zhaoolee/ChineseBQB)([官网](https://www.v2fy.com/p/000readme-chinesebqb/) [表情包搜索](https://www.v2fy.com/asset/0i/ChineseBQB/))
 
-[Windows复制粘贴太拉垮？这款剪贴板利器太香了！](https://github.com/hluk/CopyQ)
+[Windows 复制粘贴太拉垮？这款剪贴板利器太香了！](https://github.com/hluk/CopyQ)
 
-[面试官：还在使用word写简历？](https://github.com/geekcompany/ResumeSample)
+[面试官：还在使用 word 写简历？](https://github.com/geekcompany/ResumeSample)
 
 [听说在这里可以重开人生？](https://github.com/VickScarlet/lifeRestart)
 
-[谁是最好用的Redis客户端？](https://github.com/qishibo/AnotherRedisDesktopManager)
+[谁是最好用的 Redis 客户端？](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 [变量命名也有专门的网站。。。孤陋寡闻了](https://github.com/unbug/codelf)
 
 [你不会不想有一个自己的 B 站吧？](https://github.com/lybenson/bilibili-vue)
 
-[还在苦恼Jenkins的配置？这款 1W 星的持续交付产品推荐给你！](https://github.com/koderover/zadig)
+[还在苦恼 Jenkins 的配置？这款 1W 星的持续交付产品推荐给你！](https://github.com/koderover/zadig)
 
 # 往期项目推荐
 
