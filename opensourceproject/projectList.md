@@ -10,7 +10,11 @@
 
 [全能的免费工具推荐！！吊打IDM和迅雷？](https://github.com/agalwood/Motrix)
 
+[终于找到B站这个工具了，真香！](https://github.com/vooidzero/B23Downloader)
+
 [不会 PS 也没关系！一键生成精美的 GitHub 推广图！！](https://github.com/wei/socialify)
+
+[翻译软件之最，牛到不行！！](https://github.com/biyidev/biyi)
 
 [推荐一款低代码开源项目，YYDS！！](https://github.com/wangyuan389/mall-cook)
 
