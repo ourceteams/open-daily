@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[看看这个物联网系统，那叫一个优雅！](https://gitee.com/mqttsnet/thinglinks)
+
 [全能的免费工具推荐！！吊打IDM和迅雷？](https://github.com/agalwood/Motrix)
 
 [终于找到B站这个工具了，真香！](https://github.com/vooidzero/B23Downloader)
