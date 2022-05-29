@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[重磅推荐！12.2K标星的免费接口合集，API的搬运工，开发者的福利](https://github.com/fangzesheng/free-api)
+
 [看看这个物联网系统，那叫一个优雅！](https://gitee.com/mqttsnet/thinglinks)
 
 [全能的免费工具推荐！！吊打IDM和迅雷？](https://github.com/agalwood/Motrix)
