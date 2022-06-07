@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[这款良心安全的开源笔记真香](https://github.com/leanote/leanote)
+
 [拳打xxl-job，脚踢LTS，这就是开源界最强分布式调度框架？](https://github.com/PowerJob/PowerJob)
 
 [给大家分享一个有颜色的开源项目，小孩子不要点进来哦](https://github.com/zerosoul/chinese-colors)
