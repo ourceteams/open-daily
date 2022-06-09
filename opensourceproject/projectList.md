@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[终于找到这个文件搜索神器了](https://github.com/sharkdp/fd)
+
 [这款良心安全的开源笔记真香](https://github.com/leanote/leanote)
 
 [拳打xxl-job，脚踢LTS，这就是开源界最强分布式调度框架？](https://github.com/PowerJob/PowerJob)
