@@ -7,6 +7,7 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+[推荐一个超级好看的开源的后台管理框架](https://github.com/HalseySpicy/Geeker-Admin)
 
 [终于找到这个文件搜索神器了](https://github.com/sharkdp/fd)
 
