@@ -7,6 +7,8 @@
 ![](https://gitee.com/sourceteam/blog-source/raw/master/images/logo/202203032101383.jpg)
 
 ## 按文章标题进行查找
+[再见 Navicat ！这个工具才是YYDS！](https://github.com/beekeeper-studio/beekeeper-studio)
+
 [推荐一个超级好看的开源的后台管理框架](https://github.com/HalseySpicy/Geeker-Admin)
 
 [终于找到这个文件搜索神器了](https://github.com/sharkdp/fd)
