@@ -8,6 +8,7 @@
 
 ## 按文章标题进行查找
 
+[太硬核了！GitHub爆火的开源项目，优秀 ！](https://github.com/geekan/HowToLiveLonger)
 
 [一款小巧好用的性能监控软件](https://github.com/zhongyang219/TrafficMonitor)
 
