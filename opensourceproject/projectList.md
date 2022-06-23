@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[YYDS！拥有十八般武艺的开源任务管理系统，不容错过！](https://github.com/kuaifan/dootask)
+
 [10K+ Star！堪称开发者瑞士军刀的开源工具，YYDS！](https://github.com/veler/DevToys)
 
 [太硬核了！GitHub爆火的开源项目，优秀 ！](https://github.com/geekan/HowToLiveLonger)
