@@ -10,17 +10,17 @@
 
 [这款 30k Star 的视频播放器，也太好用了吧！](https://github.com/iina/iina)
 
-[再见了Typora ！快来试试这款6k+的开源Markdown编辑器!!](https://github.com/Saul-Mirone/milkdown)
+[再见了 Typora ！快来试试这款 6k+的开源 Markdown 编辑器!!](https://github.com/Saul-Mirone/milkdown)
 
 [YYDS！拥有十八般武艺的开源任务管理系统，不容错过！](https://github.com/kuaifan/dootask)
 
-[10K+ Star！堪称开发者瑞士军刀的开源工具，YYDS！](https://github.com/veler/DevToys)
+[10K+ Star！堪称开发者瑞士宝箱的开源工具，YYDS！](https://github.com/veler/DevToys)
 
-[太硬核了！GitHub爆火的开源项目，优秀 ！](https://github.com/geekan/HowToLiveLonger)
+[太硬核了！GitHub 爆火的开源项目，优秀 ！](https://github.com/geekan/HowToLiveLonger)
 
 [一款小巧好用的性能监控软件](https://github.com/zhongyang219/TrafficMonitor)
 
-[再见 Navicat ！这个工具才是YYDS！](https://github.com/beekeeper-studio/beekeeper-studio)
+[再见 Navicat ！这个工具才是 YYDS！](https://github.com/beekeeper-studio/beekeeper-studio)
 
 [推荐一个超级好看的开源的后台管理框架](https://github.com/HalseySpicy/Geeker-Admin)
 
@@ -28,17 +28,17 @@
 
 [这款良心安全的开源笔记真香](https://github.com/leanote/leanote)
 
-[拳打xxl-job，脚踢LTS，这就是开源界最强分布式调度框架？](https://github.com/PowerJob/PowerJob)
+[拳打 xxl-job，脚踢 LTS，这就是开源界最强分布式调度框架？](https://github.com/PowerJob/PowerJob)
 
 [给大家分享一个有颜色的开源项目，小孩子不要点进来哦](https://github.com/zerosoul/chinese-colors)
 
-[重磅推荐！12.2K标星的免费接口合集，API的搬运工，开发者的福利](https://github.com/fangzesheng/free-api)
+[重磅推荐！12.2K 标星的免费接口合集，API 的搬运工，开发者的福利](https://github.com/fangzesheng/free-api)
 
 [看看这个物联网系统，那叫一个优雅！](https://gitee.com/mqttsnet/thinglinks)
 
-[全能的免费工具推荐！！吊打IDM和迅雷？](https://github.com/agalwood/Motrix)
+[全能的免费工具推荐！！吊打 IDM 和迅雷？](https://github.com/agalwood/Motrix)
 
-[终于找到B站这个工具了，真香！](https://github.com/vooidzero/B23Downloader)
+[终于找到 B 站这个工具了，真香！](https://github.com/vooidzero/B23Downloader)
 
 [不会 PS 也没关系！一键生成精美的 GitHub 推广图！！](https://github.com/wei/socialify)
 
