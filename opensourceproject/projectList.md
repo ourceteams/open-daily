@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[这款 30k Star 的视频播放器，也太好用了吧！](https://github.com/iina/iina)
+
 [再见了Typora ！快来试试这款6k+的开源Markdown编辑器!!](https://github.com/Saul-Mirone/milkdown)
 
 [YYDS！拥有十八般武艺的开源任务管理系统，不容错过！](https://github.com/kuaifan/dootask)
