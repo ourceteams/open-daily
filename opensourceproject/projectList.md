@@ -8,6 +8,8 @@
 
 ## 按文章标题进行查找
 
+[再有面试官问你这个问题，就请用这个项目吊打他吧！](https://github.com/skyline75489/what-happens-when-zh_CN)
+
 [这款 30k Star 的视频播放器，也太好用了吧！](https://github.com/iina/iina)
 
 [再见了 Typora ！快来试试这款 6k+的开源 Markdown 编辑器!!](https://github.com/Saul-Mirone/milkdown)
